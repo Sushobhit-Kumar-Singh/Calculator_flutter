@@ -1,4 +1,4 @@
-# calc5
+# calculator
 
 A new Flutter project.
 
